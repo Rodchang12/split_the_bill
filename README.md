@@ -20,10 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# split_the_bill
+## 功能
 
 1.創建活動分帳群組，每個成員都能共同編輯並顯示建立及修改人。
   - 主頁面:
